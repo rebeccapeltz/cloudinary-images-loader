@@ -11,7 +11,7 @@ your Auto upload mapping in Cloudinary
 =================================================*/
 
 const cloudFolder = '',
-    cloudName = 'demo';
+    cloudName = 'pictures77';
 
 let responsivePreset = `w_auto,f_auto,dpr_auto,c_scale/${cloudFolder}`,
     fixedWidthPreset = `w_{width},f_auto,dpr_auto,c_scale/${cloudFolder}`,
